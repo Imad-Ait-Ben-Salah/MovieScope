@@ -2,7 +2,7 @@
 
 ## Overview
 
-MovieScore is a website dedicated to movie enthusiasts, providing a platform to explore and discover movies, along with their ratings, reviews, and recommendations. This project was developed for educational purposes, specifically for the subject of Emerging Interfaces (EI).
+MovieScore is a website dedicated to movie enthusiasts, providing a platform to explore and discover movies, along with their ratings, reviews, and recommendations. This project was developed for educational purposes, specifically for the subject of integrative teaching (EI: enseignement d'intégration).
 
 ## Team Members
 
